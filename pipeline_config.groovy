@@ -8,4 +8,5 @@
 */
 libraries{
   maven
+  sonarqube
 }
